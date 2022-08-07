@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/third-app/static/css/main.561e47a9.css",
+    "main.js": "/third-app/static/js/main.fabbdb5b.js",
+    "static/js/787.d38f749a.chunk.js": "/third-app/static/js/787.d38f749a.chunk.js",
+    "static/media/banner-img.jpg": "/third-app/static/media/banner-img.121676c586c43444b22c.jpg",
+    "static/media/contact.png": "/third-app/static/media/contact.35f3cf316f931f5c524c.png",
+    "static/media/Service.png": "/third-app/static/media/Service.aae696798d9316ba726f.png",
+    "static/media/thanks_img.png": "/third-app/static/media/thanks_img.9a5a6d80257670b3048f.png",
+    "static/media/call.png": "/third-app/static/media/call.b23e7d56432c3d8178fe.png",
+    "static/media/Washing-machine.png": "/third-app/static/media/Washing-machine.ae0471af585ab6a7afd9.png",
+    "static/media/cooler.png": "/third-app/static/media/cooler.1a18aca8bf73628c72dc.png",
+    "static/media/logo.png": "/third-app/static/media/logo.47556215d71c9e8762ff.png",
+    "static/media/Oven.png": "/third-app/static/media/Oven.047e4d6b79cf5851709b.png",
+    "static/media/whatsapp.png": "/third-app/static/media/whatsapp.553da8b4a9269f8078bd.png",
+    "static/media/AC.png": "/third-app/static/media/AC.8b0ab0d46d3f0e0c8910.png",
+    "static/media/refrigerator.png": "/third-app/static/media/refrigerator.e401fbeee3dafaae35c5.png",
+    "static/media/menu-icon.png": "/third-app/static/media/menu-icon.36ee9c893a22b0668fc9.png",
+    "index.html": "/third-app/index.html",
+    "main.561e47a9.css.map": "/third-app/static/css/main.561e47a9.css.map",
+    "main.fabbdb5b.js.map": "/third-app/static/js/main.fabbdb5b.js.map",
+    "787.d38f749a.chunk.js.map": "/third-app/static/js/787.d38f749a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561e47a9.css",
+    "static/js/main.fabbdb5b.js"
+  ]
+}
