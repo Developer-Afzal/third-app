@@ -26,15 +26,15 @@ import menu_icon from '../Images/menu-icon.png';
         <img src={logo} alt="logo" className="mobile-display"/>
         <img src={menu_icon} alt="logo" className=" left-menu"  onClick={MenuBtn}/>         
          <li className="list" ><Link to="/third-app" className='link'>Home</Link></li> 
-         <li className="list" > <Link to="/About" className='link'>About</Link></li>
-         <li className="list" ><Link to="/Services" className='link'>Services</Link></li>
-         <li className="list" ><Link to="/Contact" className='link'>Contact US</Link></li>
+         <li className="list" > <Link to="/third-app/About" className='link'>About</Link></li>
+         <li className="list" ><Link to="/third-app/Services" className='link'>Services</Link></li>
+         <li className="list" ><Link to="/third-app/Contact" className='link'>Contact US</Link></li>
       </ul>
       <ul ref={change} className="mobile-menu">
       <li><Link to="/third-app" className='link'>Home</Link></li> 
-      <li><Link to="/About" className='link'>About</Link></li>
-      <li><Link to="/Services" className='link'>Services</Link></li>
-      <li><Link to="/Contact" className='link'>Contact US</Link></li>
+      <li><Link to="/third-app/About" className='link'>About</Link></li>
+      <li><Link to="/third-app/Services" className='link'>Services</Link></li>
+      <li><Link to="/third-app/Contact" className='link'>Contact US</Link></li>
       </ul>
     </div>
   );
