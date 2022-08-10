@@ -64,13 +64,13 @@ const Home = () => {
                   <img src={refri} alt="refri" className='icons'/><br/>
                   <b>Refrigerator Repairing</b>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque nostrum accusamus quae voluptatum qui dolorem voluptates sit iusto delectus vel, dolor,</p>
-                   <Link to="/Services" className='link'>View Details</Link>
+                   <Link to="/third-app/Services" className='link'>View Details</Link>
                 </div>
                 <div className='col-md-6  text-center p-3'>
                   <img src={AC} alt="cooler" className='icons'/><br/>
                   <b>AC Repairing</b>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque nostrum accusamus quae voluptatum qui dolorem voluptates sit iusto delectus vel, dolor,</p>
-                 <Link to="/Services" className='link'>View Details</Link>
+                 <Link to="/third-app/Services" className='link'>View Details</Link>
                 </div>
                   </div>
                   <div className='col-md-10 row mx-auto'>
@@ -78,19 +78,19 @@ const Home = () => {
                   <img src={Washing_machine} alt="Washing_machine" className='icons'/><br/>
                   <b>Washing machine Repairing</b>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque nostrum accusamus quae voluptatum qui dolorem voluptates sit iusto delectus vel, dolor,</p>
-                 <Link to="/Services" className='link'>View Details</Link>
+                 <Link to="/third-app/Services" className='link'>View Details</Link>
                 </div>
                 <div className='col-md-4 text-center p-3'>
                   <img src={Oven} alt="Oven" className='icons'/><br/>
                   <b>Oven Repairing</b>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque nostrum accusamus quae voluptatum qui dolorem voluptates sit iusto delectus vel, dolor,</p>
-                 <Link to="/Services" className='link'>View Details</Link>
+                 <Link to="/third-app/Services" className='link'>View Details</Link>
                 </div>
                 <div className='col-md-4 text-center p-3'>
                   <img src={cooler} alt="Oven" className='icons'/><br/>
                   <b>Cooler Repairing</b>
                   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque nostrum accusamus quae voluptatum qui dolorem voluptates sit iusto delectus vel, dolor,</p>
-                 <Link to="/Services" className='link'>View Details</Link>
+                 <Link to="/third-app/Services" className='link'>View Details</Link>
                 </div>
                   </div>
                 </div>
