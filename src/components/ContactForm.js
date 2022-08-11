@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom";
     function onSubmit(data){
       // data.preventDefault();
         setuserinfo("We have Received your request");
-        navigate('/thanks'); 
+        navigate('/third-app/thanks'); 
         console.log(data);
     }
 
