@@ -81,6 +81,10 @@ ul li {
     text-decoration: none
 }
 
+.container{
+    margin-top: 100px;
+}
+
 .Home-img {
     height: 450px;
     width: 500px
@@ -175,6 +179,10 @@ ul li {
 }
 
 @media(max-width:576px) {
+    .container{
+        margin-top: 100px;
+    }
+    
     .modal {
         left: 13%;
         width: 300px
